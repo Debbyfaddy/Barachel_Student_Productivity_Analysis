@@ -1,7 +1,7 @@
-# Barachel_Student_Productivity_Analysis
+# Barachel Student Productivity Analysis
 
 ## Dashboard Overview
-![Barachel Student Productivity Dashboard](Screenshot 2026-08-06 162331.png)
+![Barachel Student Productivity Dashboard](Screenshot%202026-08-06%20162331.png)
 
 ---
 
